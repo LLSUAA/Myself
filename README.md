@@ -1,5 +1,5 @@
 # Myself - 极简浏览器防分心插件
-![效果截图](pictures/screenshot.png)
+![效果截图](https://cdn.jsdelivr.net/gh/LLSUAA/Myself@main/pictures/screenshot.png)
 > 一个基于 Manifest V3 的轻量级浏览器扩展，通过“动态可扩展黑名单”机制，在学习和深工作时提供软性阻力，夺回你的注意力。
 
 ## 💡 设计理念
